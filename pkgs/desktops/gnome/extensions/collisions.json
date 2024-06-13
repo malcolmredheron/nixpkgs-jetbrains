@@ -363,6 +363,10 @@
       "PersianCalendar@oxygenws.com",
       "persian-calendar@iamrezamousavi.gmail.com"
     ],
+    "system-monitor": [
+      "System_Monitor@bghome.gmail.com",
+      "system-monitor@gnome-shell-extensions.gcampax.github.com"
+    ],
     "power-profile-indicator": [
       "power-profile-indicator@laux.wtf",
       "power-profile@fthx"
