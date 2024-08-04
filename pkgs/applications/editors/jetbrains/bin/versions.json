@@ -125,9 +125,9 @@
       "update-channel": "Writerside EAP",
       "url-template": "https://download.jetbrains.com/writerside/writerside-{version}.tar.gz",
       "version": "2024.1 EAP",
-      "sha256": "47b3323fc18e6f8c9edc71ed309b95f09385123d9b9c9492b55ad6a77b2925ee",
-      "url": "https://download.jetbrains.com/writerside/writerside-241.18775.98.tar.gz",
-      "build_number": "241.18775.98"
+      "sha256": "7da1531fc7f1f3995957729b412bf43e5757b0029ffcdf858270e64ae30ee462",
+      "url": "https://download.jetbrains.com/writerside/writerside-241.18775.101.tar.gz",
+      "build_number": "241.18775.101"
     }
   },
   "aarch64-linux": {
@@ -256,9 +256,9 @@
       "update-channel": "Writerside EAP",
       "url-template": "https://download.jetbrains.com/writerside/writerside-{version}-aarch64.tar.gz",
       "version": "2024.1 EAP",
-      "sha256": "937c30cdfd1431bcdde10bf47f1236ea57c10eca8cd1210a04629a64b383c054",
-      "url": "https://download.jetbrains.com/writerside/writerside-241.18775.98-aarch64.tar.gz",
-      "build_number": "241.18775.98"
+      "sha256": "2f8d90582f19eee4c1b83d9c61846baa7ec3f4e75dde10ba069712e9677b2a60",
+      "url": "https://download.jetbrains.com/writerside/writerside-241.18775.101-aarch64.tar.gz",
+      "build_number": "241.18775.101"
     }
   },
   "x86_64-darwin": {
@@ -387,9 +387,9 @@
       "update-channel": "Writerside EAP",
       "url-template": "https://download.jetbrains.com/writerside/writerside-{version}.dmg",
       "version": "2024.1 EAP",
-      "sha256": "0e97d9a2ef53f18930b63a48d7303783aca7422c5d6818543f4805c01991ba41",
-      "url": "https://download.jetbrains.com/writerside/writerside-241.18775.98.dmg",
-      "build_number": "241.18775.98"
+      "sha256": "fad7fbf6fec147556b53b75adb02f22df038822f4cb0662dd4748dcc1ffd0969",
+      "url": "https://download.jetbrains.com/writerside/writerside-241.18775.101.dmg",
+      "build_number": "241.18775.101"
     }
   },
   "aarch64-darwin": {
@@ -518,9 +518,9 @@
       "update-channel": "Writerside EAP",
       "url-template": "https://download.jetbrains.com/writerside/writerside-{version}-aarch64.dmg",
       "version": "2024.1 EAP",
-      "sha256": "956fc3d39a2aa34648c272780843729356a20c0a4a1ceb20e69a9f86a562278c",
-      "url": "https://download.jetbrains.com/writerside/writerside-241.18775.98-aarch64.dmg",
-      "build_number": "241.18775.98"
+      "sha256": "dc1d01915ff31d14828b668b71cfc92529d389af122adca06d785f7cc3a9d784",
+      "url": "https://download.jetbrains.com/writerside/writerside-241.18775.101-aarch64.dmg",
+      "build_number": "241.18775.101"
     }
   }
 }
