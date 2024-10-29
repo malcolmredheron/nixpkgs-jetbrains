@@ -11,10 +11,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "1658fb15d41dfb804ab0ea3ed4781d4ae0f41d25cc9df17c3f536a565423aa5b",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.2.tar.gz",
-      "build_number": "242.22855.75"
+      "version": "2024.2.3",
+      "sha256": "0afb6e32fe1ceb77ddd07ca7fa7d01a0a5e73a0df42ec58183f9c1a06b84446e",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3.tar.gz",
+      "build_number": "242.23726.125"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -108,10 +108,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.tar.gz",
-      "version": "2024.2.3",
-      "sha256": "54991cb37fd6495ad52a1b2b6bc1d6d7ab4fff20a1bd393cab72ac57ca4e31a5",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.2.3.tar.gz",
-      "build_number": "242.23339.18"
+      "version": "2024.2.4",
+      "sha256": "20638d9ac06d840b3bbd5782de4230735380a3b42844ca8fc22af6b2f33f3c58",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.2.4.tar.gz",
+      "build_number": "242.23726.97"
     },
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
@@ -150,10 +150,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "35e089b8d8bf5f32c80022f394fe525b8aa37540d26c27e861db0df9e34716a4",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.2-aarch64.tar.gz",
-      "build_number": "242.22855.75"
+      "version": "2024.2.3",
+      "sha256": "be3e6f0d490517c8f6e7c7ac248ab8e8823bf19c8102e7695725f80df6c11d63",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.tar.gz",
+      "build_number": "242.23726.125"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -247,10 +247,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.tar.gz",
-      "version": "2024.2.3",
-      "sha256": "2be5fa28bd5313b9a043818207b9f76f3f38513ec400dfd76b01b543ff8013cf",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.2.3-aarch64.tar.gz",
-      "build_number": "242.23339.18"
+      "version": "2024.2.4",
+      "sha256": "2d08c9b203db20f4d0f78ddd2a1c6a861a78659045a38e9868d060588f3c3cd3",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.2.4-aarch64.tar.gz",
+      "build_number": "242.23726.97"
     },
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
@@ -289,10 +289,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.dmg",
-      "version": "2024.2.2",
-      "sha256": "35e1a0348353bc8c741c2dea429d0554c7d2a201e9c69b3bfc11c67accab2c52",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.2.dmg",
-      "build_number": "242.22855.75"
+      "version": "2024.2.3",
+      "sha256": "0dfc4d50268e58bb6b3c42c270ea8cca638a8733a5e2e010447cc74d585895e8",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3.dmg",
+      "build_number": "242.23726.125"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -386,10 +386,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.dmg",
-      "version": "2024.2.3",
-      "sha256": "abb6c51d39c3132f60f0f5d8fd5038f908247c0c029b34ef63821ef2fc79b7fa",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.2.3.dmg",
-      "build_number": "242.23339.18"
+      "version": "2024.2.4",
+      "sha256": "b3eec9db897a46c4becb5e1cd123d47879a2547632d11ec8c04e946182b74ccf",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.2.4.dmg",
+      "build_number": "242.23726.97"
     },
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
@@ -428,10 +428,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.dmg",
-      "version": "2024.2.2",
-      "sha256": "428d557d4b5eb7687c7c8142b61591ef4fe7825891d91616019292280696180e",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.2-aarch64.dmg",
-      "build_number": "242.22855.75"
+      "version": "2024.2.3",
+      "sha256": "998d629381e6f596b8e0cf5289fe8ca7cfd3221fc73b6c8548d768889b14196f",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.dmg",
+      "build_number": "242.23726.125"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -525,10 +525,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.dmg",
-      "version": "2024.2.3",
-      "sha256": "79ac4f9fb54f7049c2bb5ab3ec78280fe4991e3aaa4cc608cb06ce980c76a05a",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.2.3-aarch64.dmg",
-      "build_number": "242.23339.18"
+      "version": "2024.2.4",
+      "sha256": "4ccaff57fe8605962797313b3dcea2b4f373249bbaa9e56f242acacbd88d5635",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.2.4-aarch64.dmg",
+      "build_number": "242.23726.97"
     },
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
