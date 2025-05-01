@@ -75,10 +75,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.tar.gz",
-      "version": "2025.1",
-      "sha256": "2ead794b5bc6d31be4ad886788110e9d8e5c708e2e542b20d17a2407b9e58998",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.tar.gz",
-      "build_number": "251.23774.436",
+      "version": "2025.1.0.1",
+      "sha256": "53e2611f1283725f97183229afbbb1497a0573943140b2af42e0d9d226392e1c",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.0.1.tar.gz",
+      "build_number": "251.23774.466",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -100,10 +100,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.tar.gz",
-      "version": "2025.1",
-      "sha256": "bd00eb4d43db2386c6219415b098b0fad5abca5796b813d44beeb76c23408260",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.tar.gz",
-      "build_number": "251.23774.437"
+      "version": "2025.1.1",
+      "sha256": "7afe1b4c5f31d0bf3ce46f0805756217a6ce88708b7b6c58ff8b6acb851d630e",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1.tar.gz",
+      "build_number": "251.23774.471"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -116,10 +116,10 @@
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}.tar.gz",
-      "version": "2025.1",
-      "sha256": "6c3e5c2cc45bfbfe631f6f34f87d45fbc3e3f97d12a8ca9e6de77beab230a210",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-2025.1.tar.gz",
-      "build_number": "251.23774.445"
+      "version": "2025.1.1",
+      "sha256": "f569ecec2bde49663063810166c5e0ebdeb7edf9ebb59d001cc04c0d06363022",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-2025.1.1.tar.gz",
+      "build_number": "251.23774.463"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -214,10 +214,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.tar.gz",
-      "version": "2025.1",
-      "sha256": "a55cbef6886a645e5dfcbead427d1d2b6997eca6b86c9f4e2eed828980bd822b",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1-aarch64.tar.gz",
-      "build_number": "251.23774.436",
+      "version": "2025.1.0.1",
+      "sha256": "97ecc2f3f83344c2e1f8c145ab5d66b78a8ed1e2027858fe90b4d68e22611199",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.0.1-aarch64.tar.gz",
+      "build_number": "251.23774.466",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -239,10 +239,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.tar.gz",
-      "version": "2025.1",
-      "sha256": "9d44cdaf7c344be547908e0a5073b49db7bf66d743b5d19dd2ad01ef7f25a0ed",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1-aarch64.tar.gz",
-      "build_number": "251.23774.437"
+      "version": "2025.1.1",
+      "sha256": "c64948d52337e91bd2df4257c24452d8cccb93b4a4d0893246267b66ff5ce512",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1-aarch64.tar.gz",
+      "build_number": "251.23774.471"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -255,10 +255,10 @@
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}-aarch64.tar.gz",
-      "version": "2025.1",
-      "sha256": "e645f8929095be8ea83da911b55999ff3199daa6ba68ed32cabb1f3824ce301f",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-2025.1-aarch64.tar.gz",
-      "build_number": "251.23774.445"
+      "version": "2025.1.1",
+      "sha256": "a7ada9bb73f4a762dc8ddec1c4cf9b2add3467ad00d7f85b603b94135cee3b5d",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-2025.1.1-aarch64.tar.gz",
+      "build_number": "251.23774.463"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -353,10 +353,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.dmg",
-      "version": "2025.1",
-      "sha256": "9c3bcba68beb364f57fa674fc1c33c4ac7fc86d3835de7b33aed8cfd2dbbda33",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.dmg",
-      "build_number": "251.23774.436",
+      "version": "2025.1.0.1",
+      "sha256": "55a9d94b8f6fe5c0d0e29e6d77a3981f7e419d7f09a855cc7fd62f3625389863",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.0.1.dmg",
+      "build_number": "251.23774.466",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -378,10 +378,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.dmg",
-      "version": "2025.1",
-      "sha256": "e7d2dab3620e597a5f8a96f0611e97a489d7edecc8475f1be3109d3f0ab11327",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.dmg",
-      "build_number": "251.23774.437"
+      "version": "2025.1.1",
+      "sha256": "4a28438bcda5445ad5cc1c27a78369835a328f97b5637bda83acda49b2655418",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1.dmg",
+      "build_number": "251.23774.471"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -394,10 +394,10 @@
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}.dmg",
-      "version": "2025.1",
-      "sha256": "b0b41fbcb264aec50022800fb2930e3686d2f9dad07acc49621c85dfc3d4a193",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-2025.1.dmg",
-      "build_number": "251.23774.445"
+      "version": "2025.1.1",
+      "sha256": "95bc2b21b66a3dbb11f379936b8d6a6b7223768f9b96e6b61c04ba3c4f31e2b2",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-2025.1.1.dmg",
+      "build_number": "251.23774.463"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -492,10 +492,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.dmg",
-      "version": "2025.1",
-      "sha256": "f963bacc18282e83da5adb85d55d8a6db74b8636c5c88777031fe1f222cb6a07",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1-aarch64.dmg",
-      "build_number": "251.23774.436",
+      "version": "2025.1.0.1",
+      "sha256": "9b3b87a8980cf067a84acc56a8b02590a146314304dbb4d340e3474783a54071",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.0.1-aarch64.dmg",
+      "build_number": "251.23774.466",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -517,10 +517,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.dmg",
-      "version": "2025.1",
-      "sha256": "8a3b452dd35ed1be8eca579de47f27febdc68271123a0557354ded179f53bce2",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1-aarch64.dmg",
-      "build_number": "251.23774.437"
+      "version": "2025.1.1",
+      "sha256": "960b3a5e8b50ebe781a32c608e105671199a61d8d11f2dfe274859442ac2fa5f",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2025.1.1-aarch64.dmg",
+      "build_number": "251.23774.471"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -533,10 +533,10 @@
     "rust-rover": {
       "update-channel": "RustRover RELEASE",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}-aarch64.dmg",
-      "version": "2025.1",
-      "sha256": "4ee23c7ec5a85e8e42d9d74fb86e03ce9cac8e1d0c827df42360375fd912e81b",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-2025.1-aarch64.dmg",
-      "build_number": "251.23774.445"
+      "version": "2025.1.1",
+      "sha256": "d6281b259ee4567875331dc14cf9826073536b797a8abb7e14715ada82604bb3",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-2025.1.1-aarch64.dmg",
+      "build_number": "251.23774.463"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
