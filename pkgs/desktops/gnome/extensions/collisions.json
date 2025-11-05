@@ -1,4 +1,8 @@
 {
+  "activitywatch-status": [
+    "activitywatch-status@cweiske.de",
+    "aw-status@brayo.dev"
+  ],
   "applications-menu": [
     "Applications_Menu@rmy.pobox.com",
     "apps-menu@gnome-shell-extensions.gcampax.github.com"
@@ -20,6 +24,10 @@
     "FuzzyClock@fire-man-x",
     "FuzzyClock@johngoetz"
   ],
+  "lock-keys": [
+    "lockkeys@febueldo.test",
+    "lockkeys@vaina.lt"
+  ],
   "mouse-follows-focus": [
     "mouse-follows-focus@crisidev.org",
     "mousefollowsfocus@matthes.biz"
@@ -38,6 +46,7 @@
   ],
   "system-monitor": [
     "System_Monitor@bghome.gmail.com",
+    "system-monitor@axet.github.com",
     "system-monitor@gnome-shell-extensions.gcampax.github.com"
   ]
 }
