@@ -24,6 +24,10 @@
     "lockkeys@febueldo.test",
     "lockkeys@vaina.lt"
   ],
+  "memento-mori": [
+    "memento-mori@paveloom",
+    "memento-mori@vedeshpadal"
+  ],
   "mouse-follows-focus": [
     "mouse-follows-focus@crisidev.org",
     "mousefollowsfocus@matthes.biz"
@@ -31,6 +35,14 @@
   "nepali-calendar": [
     "nepali-calendar-gs-extension@subashghimire.info.np",
     "nepali-date@biplab"
+  ],
+  "net-speed": [
+    "netspeed@alynx.one",
+    "netspeed@shivamksharma.github.io"
+  ],
+  "night-light-toggle": [
+    "night-light-toggle@egoistpizza.github.com",
+    "nightlighttoggle@sam"
   ],
   "persian-calendar": [
     "PersianCalendar@oxygenws.com",
